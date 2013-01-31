@@ -1,4 +1,14 @@
-body {
-     img {border:0;}
 
+body {
+     font-size: 0;
+     margin-left: 0px;
+     margin-right: 0px;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     background-image:url(assets/omfgdogs.gif);
+     background-repeat:repeat;
 }  
+
+img {
+border:0;
+}
