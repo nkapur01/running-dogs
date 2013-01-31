@@ -1,6 +1,6 @@
 
 body {
-     font-size: 0;
+    
      margin-left: 0px;
      margin-right: 0px;
      margin-top: 0px;
@@ -10,5 +10,13 @@ body {
 }  
 
 img {
-border:0;
+    border:0;
+}
+
+h1 {
+   margin-left: 90%;
+   margin-top:  90%;
+   font-size: medium;
+   color: white;
+   font-family: 'Arial Black', Gadget, sans-serif;
 }
